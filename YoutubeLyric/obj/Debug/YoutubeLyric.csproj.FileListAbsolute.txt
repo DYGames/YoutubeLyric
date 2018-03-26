@@ -1,0 +1,11 @@
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\bin\Debug\YoutubeLyric.exe.config
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\bin\Debug\YoutubeLyric.exe
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\bin\Debug\YoutubeLyric.pdb
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Debug\YoutubeLyric.csprojResolveAssemblyReference.cache
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Debug\YoutubeLyric.Properties.Resources.resources
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Debug\YoutubeLyric.csproj.GenerateResource.cache
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Debug\YoutubeLyric.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Debug\YoutubeLyric.exe
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Debug\YoutubeLyric.pdb
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Debug\YoutubeLyric.Lyric.resources
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Debug\YoutubeLyric.YoutubeLyric.resources

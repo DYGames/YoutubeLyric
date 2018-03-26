@@ -1,0 +1,10 @@
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\bin\Release\YoutubeLyric.exe.config
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\bin\Release\YoutubeLyric.exe
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\bin\Release\YoutubeLyric.pdb
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Release\YoutubeLyric.YoutubeLyric.resources
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Release\YoutubeLyric.Lyric.resources
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Release\YoutubeLyric.Properties.Resources.resources
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Release\YoutubeLyric.csproj.GenerateResource.cache
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Release\YoutubeLyric.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Release\YoutubeLyric.exe
+D:\Projects\C#\YoutubeLyric\YoutubeLyric\YoutubeLyric\obj\Release\YoutubeLyric.pdb
